@@ -3,9 +3,17 @@ Noughts and Crosses game
 Started coding: 27/01/2018
 Author: Katie Binley
 """
+try:
+    import tkinter as tk
+except ImportError:
+    import Tkinter as tk
 
-import tkinter as tk
-from tkinter import *
+try:
+    from Tkinter import *
+except ImportError:
+    from tkinter import *
+
+
 from random import randint
 import sys
 import os

@@ -5,7 +5,7 @@ Classic noughts and crosses (or tic-tac-toe) game
 
 ### Prerequisites
 
-Python 3. To install, go to https://www.python.org/download/releases/3.0/
+Python 2 or 3. To install python 3, go to https://www.python.org/download/releases/3.0/
 Check which version of python you have installed by typing in the terminal/command line:
 
 ```
@@ -16,6 +16,12 @@ python -V
 
 Download python file.
 Run from terminal/Command prompt by navigating to directory where NoughtsAndCrosses.py is saved and typing:
+
+```
+python NoughtsAndCrosses.py
+```
+
+or if you have more than one version of python installed, type:
 
 ```
 python3 NoughtsAndCrosses.py
