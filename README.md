@@ -35,7 +35,7 @@ python3 NoughtsAndCrosses.py
    Restart grid and play again by clicking "Play again" button.
    Quit game by clicking "Quit".
 
-IMPORTANT NOTE: If the steps above are not follwed correctly an infinite while loop may be initiated. If this happens terminate python by force quitting the program.
+IMPORTANT NOTE: If the steps above are not followed correctly an infinite while loop may be initiated. If this happens terminate python by force quitting the program.
 
 
 ## Running the tests
